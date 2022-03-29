@@ -1,2 +1,2 @@
-# JS
-for JS class
+# apper-frontend-hws
+for frontend class
